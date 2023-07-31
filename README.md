@@ -1,5 +1,5 @@
 # Bicycle-Sales-SQLandExcel
-## [Creating Bicycle Sales Dataset] (https://github.com/bfgelfand/Bicycle-Sales-Excel/blob/main/CreatingDataset.sql)
+## [Creating Bicycle Sales Dataset](https://github.com/bfgelfand/Bicycle-Sales-Excel/blob/main/CreatingDataset.sql)
 ## [Data Visualization and Analysis](https://github.com/bfgelfand/Bicycle-Sales-Excel/blob/main/BikeStores.xlsx)
 
 ### Conclusions and/or Observations
