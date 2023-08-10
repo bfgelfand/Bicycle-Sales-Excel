@@ -1,6 +1,6 @@
 # Bicycle-Sales-SQLandExcel
 ## [Creating Bicycle Sales Dataset](https://github.com/bfgelfand/Bicycle-Sales-Excel/blob/main/CreatingDataset.sql)
-## [Data Visualization and Analysis](https://github.com/bfgelfand/Bicycle-Sales-Excel/blob/main/BikeStores.xlsx)
+## [Data Analysis and Visualization](https://github.com/bfgelfand/Bicycle-Sales-Excel/blob/main/BikeStores.xlsx)
 
 ### Conclusions and/or Observations
 - Overall sales were highest in the year 2017 and in the store located in New York, Baldwin Bikes.
